@@ -4,4 +4,4 @@ NPM 	: 1906350603
 
 Kelas	: E
 
-Hobi    : Bermain 
+Hobi    : Makan
